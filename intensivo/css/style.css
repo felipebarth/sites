@@ -89,7 +89,7 @@
         font-size: 2em;
     }
 
-    .alinhar {
+    .alinhar, .alinhar2 {
         text-align: center;
         margin-bottom: 20px;
     }
@@ -268,6 +268,13 @@
     .alinhar {
         text-align: center;
         margin-bottom: 20px;
+    }
+
+    .alinhar2 {
+        text-align: center;
+        margin-bottom: 20px;
+        width: 80%;
+        margin: auto;
     }
 
     .motivos {
